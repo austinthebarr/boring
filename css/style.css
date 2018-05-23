@@ -1,0 +1,27 @@
+body {
+  background-image: url(../img/field.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+img.intro {
+  width: 100%;
+  margin-top: 25px;
+}
+
+h1{
+  font-size: 32px;
+  font-weight: 400;
+  font-family: cursive;
+}
+
+h2.intro {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+p.intro {
+  color: #fff;
+  font-weight:400;
+}
