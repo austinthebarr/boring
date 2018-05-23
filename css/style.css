@@ -12,16 +12,24 @@ img.intro {
 
 h1{
   font-size: 32px;
-  font-weight: 400;
+  font-weight: 600;
   font-family: cursive;
+  text-align: center;
 }
 
 h2.intro {
   font-size: 22px;
-  font-weight: 400;
+  font-weight:600;
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+  font-style: oblique;
 }
 
 p.intro {
   color: #fff;
-  font-weight:400;
+  font-weight:600;
 }
