@@ -29,3 +29,13 @@ p {
   text-align: center;
   font-weight:600;
 }
+
+.background {
+  background-color: black;
+}
+
+.font {
+  color: pink;
+  border: 15px solid black;
+  background-color: white;
+}
